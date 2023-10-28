@@ -9,7 +9,7 @@
     <form>
       <fieldset>
         <legend>Registration Form</legend>
-<p>Enter the following:</p>
+<p>Enter the following information:</p>
       <label>Name:</label>
       <input type="text"><br><br>
         <label>Surname:</label>
