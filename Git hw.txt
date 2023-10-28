@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Forms in html
+    </title>
+  </head>
+  <body>
+    <form>
+      <fieldset>
+        <legend>Registration Form</legend>
+      <label>Name:</label>
+      <input type="text"><br><br>
+        <label>Surname:</label>
+      <input type="text"><br><br>
+        <label>Email ID:</label>
+      <input type="email"><br><br>
+        <label>Password</label>
+      <input type="password"><br><br>
+        <label>Gender:</label><br>
+       <input type="radio" name="m">Male<br>
+        <input type="radio" name="m">Female<br>
+        <input type="radio" name="m">Others<br><br>
+          <label>Address:</label><br>
+          <input type="text"><br><br>
+        <input type="submit" value="Sign-Up"><br>
+       </fieldset><br><br>
+
+      <fieldset>
+        <legend>Education Details</legend>
+        <label>School name:</label><br>
+        <input type="text"><br><br>
+        <label>Select your favourite subject:</label>
+        <select>
+          <option>Maths</option>
+          <option>Science</option>
+          <option>English</option>
+          <option>Hindi</option>
+        </select>
+      </fieldset>
+    </form>
+  </body>
+</html>
